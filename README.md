@@ -2,6 +2,10 @@ This is a Chinese game which is not so common.
 
 ## 更新说明
 
+暂无
+
+## 游戏说明
+
 `play-6.0` 是人机对战
 
 `play-5.2.0` 是多人混战，最高和19个电脑一起打
@@ -11,8 +15,6 @@ This is a Chinese game which is not so common.
 `data.exe` 是数据，不要运行，需要保证和 `play` 或 `team` 在同一文件夹下
 
 将会增加一些其它技能。
-
-## 游戏说明
 
 总共有20种操作，分别为：
 
